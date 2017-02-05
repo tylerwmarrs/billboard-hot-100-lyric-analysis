@@ -1,7 +1,7 @@
 billboard hot 100 lyric analysis
 ==============================
 
-Obtain the weekly list of hot 100 songs from billboard.com and scrape lyrics from the web. Further we look for any type of pattens in the lyric test.
+Obtain the weekly list of hot 100 songs from billboard.com and scrape lyrics from the web. Further we look for any type of pattens in the lyric text.
 
 Project Organization
 ------------
