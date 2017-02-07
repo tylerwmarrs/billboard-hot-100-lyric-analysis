@@ -1,101 +1,101 @@
-artist,title,rank_this_week,rank_last_week,lyrics_path
-Migos Featuring Lil Uzi Vert,Bad And Boujee,1,1,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/migos-featuring-lil-uzi-vert-bad-and-boujee.txt
-Ed Sheeran,Shape Of You,2,2,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/ed-sheeran-shape-of-you.txt
-The Chainsmokers Featuring Halsey,Closer,3,4,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-chainsmokers-featuring-halsey-closer.txt
-Machine Gun Kelly x Camila Cabello,Bad Things,4,6,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/machine-gun-kelly-x-camila-cabello-bad-things.txt
-Zayn / Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),5,8,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/zayn-taylor-swift-i-dont-wanna-live-forever-fifty-shades-darker.txt
-Rae Sremmurd Featuring Gucci Mane,Black Beatles,6,3,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/rae-sremmurd-featuring-gucci-mane-black-beatles.txt
-Maroon 5 Featuring Kendrick Lamar,Don't Wanna Know,7,9,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/maroon-5-featuring-kendrick-lamar-dont-wanna-know.txt
-The Weeknd Featuring Daft Punk,Starboy,8,5,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-weeknd-featuring-daft-punk-starboy.txt
-Drake,Fake Love,9,11,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/drake-fake-love.txt
-Alessia Cara,Scars To Your Beautiful,10,13,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/alessia-cara-scars-to-your-beautiful.txt
-Bruno Mars,24K Magic,11,10,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/bruno-mars-24k-magic.txt
-Ariana Grande Featuring Nicki Minaj,Side To Side,12,12,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/ariana-grande-featuring-nicki-minaj-side-to-side.txt
-The Chainsmokers,Paris,13,7,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-chainsmokers-paris.txt
-Rihanna,Love On The Brain,14,17,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/rihanna-love-on-the-brain.txt
-Big Sean,Bounce Back,15,15,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/big-sean-bounce-back.txt
-DJ Snake Featuring Justin Bieber,Let Me Love You,16,16,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/dj-snake-featuring-justin-bieber-let-me-love-you.txt
-Amine,Caroline,17,14,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/amine-caroline.txt
-The Weeknd Featuring Daft Punk,I Feel It Coming,18,19,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-weeknd-featuring-daft-punk-i-feel-it-coming.txt
-Jon Bellion,All Time Low,19,22,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/jon-bellion-all-time-low.txt
-Hailee Steinfeld & Grey Featuring Zedd,Starving,20,23,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/hailee-steinfeld-grey-featuring-zedd-starving.txt
-Shawn Mendes,Mercy,21,25,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/shawn-mendes-mercy.txt
-twenty one pilots,Heathens,22,20,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/twenty-one-pilots-heathens.txt
-Justin Timberlake,Can't Stop The Feeling!,23,24,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/justin-timberlake-cant-stop-the-feeling.txt
-Niall Horan,This Town,24,29,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/niall-horan-this-town.txt
-D.R.A.M. Featuring Lil Yachty,Broccoli,25,21,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/dram-featuring-lil-yachty-broccoli.txt
-Adele,Water Under The Bridge,26,34,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/adele-water-under-the-bridge.txt
-Sia Featuring Sean Paul,Cheap Thrills,27,27,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/sia-featuring-sean-paul-cheap-thrills.txt
-Shawn Mendes,Treat You Better,28,26,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/shawn-mendes-treat-you-better.txt
-KYLE Featuring Lil Yachty,iSpy,29,32,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/kyle-featuring-lil-yachty-ispy.txt
-Zay Hilfigerrr & Zayion McCall,Juju On That Beat (TZ Anthem),30,18,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/zay-hilfigerrr-zayion-mccall-juju-on-that-beat-tz-anthem.txt
-James Arthur,Say You Won't Let Go,31,30,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/james-arthur-say-you-wont-let-go.txt
-Clean Bandit Featuring Sean Paul & Anne-Marie,Rockabye,32,38,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/clean-bandit-featuring-sean-paul-anne-marie-rockabye.txt
-John Legend,Love Me Now,33,31,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/john-legend-love-me-now.txt
-The Chainsmokers Featuring Daya,Don't Let Me Down,34,33,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-chainsmokers-featuring-daya-dont-let-me-down.txt
-Little Big Town,Better Man,35,41,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/little-big-town-better-man.txt
-Keith Urban,Blue Ain't Your Color,36,35,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/keith-urban-blue-aint-your-color.txt
-Migos,T-Shirt,37,43,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/migos-t-shirt.txt
-Sia Featuring Kendrick Lamar,The Greatest,38,39,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/sia-featuring-kendrick-lamar-the-greatest.txt
-Ed Sheeran,Castle On The Hill,39,28,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/ed-sheeran-castle-on-the-hill.txt
-Chris Brown Featuring Usher & Gucci Mane,Party,40,45,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/chris-brown-featuring-usher-gucci-mane-party.txt
-21 Savage & Metro Boomin Featuring Future,X,41,37,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/21-savage-metro-boomin-featuring-future-x.txt
-Blake Shelton,A Guy With A Girl,42,51,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/blake-shelton-a-guy-with-a-girl.txt
-Rob $tone Featuring J. Davi$ & Spooks,Chill Bill,43,40,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/rob-tone-featuring-j-davi-spooks-chill-bill.txt
-Jon Pardi,Dirt On My Boots,44,57,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/jon-pardi-dirt-on-my-boots.txt
-Thomas Rhett,Star Of The Show,45,55,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/thomas-rhett-star-of-the-show.txt
-J. Cole,Deja Vu,46,48,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/j-cole-deja-vu.txt
-Future Featuring Drake,Used To This,47,49,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/future-featuring-drake-used-to-this.txt
-Major Lazer Featuring Justin Bieber & MO,Cold Water,48,42,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/major-lazer-featuring-justin-bieber-mo-cold-water.txt
-Gucci Mane Featuring Drake,Both,49,44,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/gucci-mane-featuring-drake-both.txt
-The Weeknd,Party Monster,50,36,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/the-weeknd-party-monster.txt
-Travis Scott,Goosebumps,51,71,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/travis-scott-goosebumps.txt
-Marian Hill,Down,52,99,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/marian-hill-down.txt
-Fitz And The Tantrums,HandClap,53,54,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/fitz-and-the-tantrums-handclap.txt
-Kaleo,Way Down We Go,54,85,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/kaleo-way-down-we-go.txt
-Dustin Lynch,Seein' Red,55,66,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/dustin-lynch-seein-red.txt
-Bebe Rexha,I Got You,56,53,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/bebe-rexha-i-got-you.txt
-Noah Cyrus Featuring Labrinth,Make Me (Cry),57,62,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/noah-cyrus-featuring-labrinth-make-me-cry.txt
-Post Malone Featuring Quavo,Congratulations,58,81,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/post-malone-featuring-quavo-congratulations.txt
-Shakira Featuring Maluma,Chantaje,59,52,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/shakira-featuring-maluma-chantaje.txt
-Train,Play That Song,60,69,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/train-play-that-song.txt
-21 Savage & Metro Boomin,No Heart,61,50,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/21-savage-metro-boomin-no-heart.txt
-Michael Ray,Think A Little Less,62,76,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/michael-ray-think-a-little-less.txt
-Chris Young Featuring Vince Gill,Sober Saturday Night,63,75,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/chris-young-featuring-vince-gill-sober-saturday-night.txt
-Khalid,Location,64,70,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/khalid-location.txt
-Auli'i Cravalho,How Far I'll Go,65,67,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/aulii-cravalho-how-far-ill-go.txt
-Carrie Underwood,Dirty Laundry,66,58,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/carrie-underwood-dirty-laundry.txt
-PnB Rock,Selfish,67,59,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/pnb-rock-selfish.txt
-Alessia Cara,How Far I'll Go,68,56,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/alessia-cara-how-far-ill-go.txt
-Brett Eldredge,Wanna Be That Song,69,64,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/brett-eldredge-wanna-be-that-song.txt
-Andy Grammer,Fresh Eyes,70,68,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/andy-grammer-fresh-eyes.txt
-Eric Church Featuring Rhiannon Giddens,Kill A Word,71,74,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/eric-church-featuring-rhiannon-giddens-kill-a-word.txt
-Big Sean,Moves,72,65,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/big-sean-moves.txt
-DJ Luke Nasty,OTW,73,72,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/dj-luke-nasty-otw.txt
-Brad Paisley,Today,74,92,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/brad-paisley-today.txt
-Rae Sremmurd,Swang,75,61,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/rae-sremmurd-swang.txt
-Childish Gambino,Redbone,76,63,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/childish-gambino-redbone.txt
-Luis Fonsi Featuring Daddy Yankee,Despacito,77,88,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/luis-fonsi-featuring-daddy-yankee-despacito.txt
-Maren Morris,80s Mercedes,78,82,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/maren-morris-80s-mercedes.txt
-Brantley Gilbert,The Weekend,79,89,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/brantley-gilbert-the-weekend.txt
-Granger Smith,If The Boot Fits,80,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/granger-smith-if-the-boot-fits.txt
-Luke Bryan,Fast,81,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/luke-bryan-fast.txt
-Bruno Mars,That's What I Like,82,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/bruno-mars-thats-what-i-like.txt
-PARTYNEXTDOOR,Not Nice,83,95,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/partynextdoor-not-nice.txt
-Hey Violet,Guys My Age,84,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/hey-violet-guys-my-age.txt
-Rihanna,Sex With Me,85,87,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/rihanna-sex-with-me.txt
-Lauren Alaina,Road Less Traveled,86,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/lauren-alaina-road-less-traveled.txt
-Julia Michaels,Issues,87,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/julia-michaels-issues.txt
-Starley,Call On Me,88,79,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/starley-call-on-me.txt
-Marshmello,Alone,89,60,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/marshmello-alone.txt
-Dierks Bentley,Black,90,98,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/dierks-bentley-black.txt
-John Mayer,Love On The Weekend,91,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/john-mayer-love-on-the-weekend.txt
-2 Chainz x Gucci Mane x Quavo,Good Drank,92,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/2-chainz-x-gucci-mane-x-quavo-good-drank.txt
-Jason Aldean,Any Ol' Barstool,93,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/jason-aldean-any-ol-barstool.txt
-Calum Scott,Dancing On My Own,94,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/calum-scott-dancing-on-my-own.txt
-Drake Featuring 21 Savage,Sneakin',95,73,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/drake-featuring-21-savage-sneakin.txt
-Old Dominion,Song For Another Time,96,83,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/old-dominion-song-for-another-time.txt
-Lady Gaga,Million Reasons,97,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/lady-gaga-million-reasons.txt
-Flume Featuring Tove Lo,Say It,98,94,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/flume-featuring-tove-lo-say-it.txt
-Ugly God,Water,99,80,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/ugly-god-water.txt
-Wale Featuring Lil Wayne,Running Back,100,0,/media/sf_B_DRIVE/src/jupyter/billboard-hot-100-data/02-02-2017/wale-featuring-lil-wayne-running-back.txt
+artist,title,rank_this_week,rank_last_week,lyrics_source,lyrics_file
+Migos Featuring Lil Uzi Vert,Bad And Boujee,1,1,songlyrics.com,migos-featuring-lil-uzi-vert-bad-and-boujee.txt
+Ed Sheeran,Shape Of You,2,2,songlyrics.com,ed-sheeran-shape-of-you.txt
+The Chainsmokers Featuring Halsey,Closer,3,4,songlyrics.com,the-chainsmokers-featuring-halsey-closer.txt
+Machine Gun Kelly x Camila Cabello,Bad Things,4,6,songlyrics.com,machine-gun-kelly-x-camila-cabello-bad-things.txt
+Zayn / Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),5,8,songlyrics.com,zayn-taylor-swift-i-dont-wanna-live-forever-fifty-shades-darker.txt
+Rae Sremmurd Featuring Gucci Mane,Black Beatles,6,3,songlyrics.com,rae-sremmurd-featuring-gucci-mane-black-beatles.txt
+Maroon 5 Featuring Kendrick Lamar,Don't Wanna Know,7,9,songlyrics.com,maroon-5-featuring-kendrick-lamar-dont-wanna-know.txt
+The Weeknd Featuring Daft Punk,Starboy,8,5,songlyrics.com,the-weeknd-featuring-daft-punk-starboy.txt
+Drake,Fake Love,9,11,songlyrics.com,drake-fake-love.txt
+Alessia Cara,Scars To Your Beautiful,10,13,songlyrics.com,alessia-cara-scars-to-your-beautiful.txt
+Bruno Mars,24K Magic,11,10,songlyrics.com,bruno-mars-24k-magic.txt
+Ariana Grande Featuring Nicki Minaj,Side To Side,12,12,songlyrics.com,ariana-grande-featuring-nicki-minaj-side-to-side.txt
+The Chainsmokers,Paris,13,7,songlyrics.com,the-chainsmokers-paris.txt
+Rihanna,Love On The Brain,14,17,songlyrics.com,rihanna-love-on-the-brain.txt
+Big Sean,Bounce Back,15,15,songlyrics.com,big-sean-bounce-back.txt
+DJ Snake Featuring Justin Bieber,Let Me Love You,16,16,songlyrics.com,dj-snake-featuring-justin-bieber-let-me-love-you.txt
+Amine,Caroline,17,14,songlyrics.com,amine-caroline.txt
+The Weeknd Featuring Daft Punk,I Feel It Coming,18,19,songlyrics.com,the-weeknd-featuring-daft-punk-i-feel-it-coming.txt
+Jon Bellion,All Time Low,19,22,songlyrics.com,jon-bellion-all-time-low.txt
+Hailee Steinfeld & Grey Featuring Zedd,Starving,20,23,songlyrics.com,hailee-steinfeld-grey-featuring-zedd-starving.txt
+Shawn Mendes,Mercy,21,25,songlyrics.com,shawn-mendes-mercy.txt
+twenty one pilots,Heathens,22,20,songlyrics.com,twenty-one-pilots-heathens.txt
+Justin Timberlake,Can't Stop The Feeling!,23,24,songlyrics.com,justin-timberlake-cant-stop-the-feeling.txt
+Niall Horan,This Town,24,29,songlyrics.com,niall-horan-this-town.txt
+D.R.A.M. Featuring Lil Yachty,Broccoli,25,21,songlyrics.com,dram-featuring-lil-yachty-broccoli.txt
+Adele,Water Under The Bridge,26,34,songlyrics.com,adele-water-under-the-bridge.txt
+Sia Featuring Sean Paul,Cheap Thrills,27,27,songlyrics.com,sia-featuring-sean-paul-cheap-thrills.txt
+Shawn Mendes,Treat You Better,28,26,songlyrics.com,shawn-mendes-treat-you-better.txt
+KYLE Featuring Lil Yachty,iSpy,29,32,songlyrics.com,kyle-featuring-lil-yachty-ispy.txt
+Zay Hilfigerrr & Zayion McCall,Juju On That Beat (TZ Anthem),30,18,songlyrics.com,zay-hilfigerrr-zayion-mccall-juju-on-that-beat-tz-anthem.txt
+James Arthur,Say You Won't Let Go,31,30,songlyrics.com,james-arthur-say-you-wont-let-go.txt
+Clean Bandit Featuring Sean Paul & Anne-Marie,Rockabye,32,38,songlyrics.com,clean-bandit-featuring-sean-paul-anne-marie-rockabye.txt
+John Legend,Love Me Now,33,31,songlyrics.com,john-legend-love-me-now.txt
+The Chainsmokers Featuring Daya,Don't Let Me Down,34,33,songlyrics.com,the-chainsmokers-featuring-daya-dont-let-me-down.txt
+Little Big Town,Better Man,35,41,songlyrics.com,little-big-town-better-man.txt
+Keith Urban,Blue Ain't Your Color,36,35,songlyrics.com,keith-urban-blue-aint-your-color.txt
+Migos,T-Shirt,37,43,songlyrics.com,migos-t-shirt.txt
+Sia Featuring Kendrick Lamar,The Greatest,38,39,songlyrics.com,sia-featuring-kendrick-lamar-the-greatest.txt
+Ed Sheeran,Castle On The Hill,39,28,songlyrics.com,ed-sheeran-castle-on-the-hill.txt
+Chris Brown Featuring Usher & Gucci Mane,Party,40,45,songlyrics.com,chris-brown-featuring-usher-gucci-mane-party.txt
+21 Savage & Metro Boomin Featuring Future,X,41,37,songlyrics.com,21-savage-metro-boomin-featuring-future-x.txt
+Blake Shelton,A Guy With A Girl,42,51,songlyrics.com,blake-shelton-a-guy-with-a-girl.txt
+Rob $tone Featuring J. Davi$ & Spooks,Chill Bill,43,40,songlyrics.com,rob-tone-featuring-j-davi-spooks-chill-bill.txt
+Jon Pardi,Dirt On My Boots,44,57,songlyrics.com,jon-pardi-dirt-on-my-boots.txt
+Thomas Rhett,Star Of The Show,45,55,songlyrics.com,thomas-rhett-star-of-the-show.txt
+J. Cole,Deja Vu,46,48,songlyrics.com,j-cole-deja-vu.txt
+Future Featuring Drake,Used To This,47,49,songlyrics.com,future-featuring-drake-used-to-this.txt
+Major Lazer Featuring Justin Bieber & MO,Cold Water,48,42,songlyrics.com,major-lazer-featuring-justin-bieber-mo-cold-water.txt
+Gucci Mane Featuring Drake,Both,49,44,songlyrics.com,gucci-mane-featuring-drake-both.txt
+The Weeknd,Party Monster,50,36,songlyrics.com,the-weeknd-party-monster.txt
+Travis Scott,Goosebumps,51,71,songlyrics.com,travis-scott-goosebumps.txt
+Marian Hill,Down,52,99,songlyrics.com,marian-hill-down.txt
+Fitz And The Tantrums,HandClap,53,54,songlyrics.com,fitz-and-the-tantrums-handclap.txt
+Kaleo,Way Down We Go,54,85,songlyrics.com,kaleo-way-down-we-go.txt
+Dustin Lynch,Seein' Red,55,66,songlyrics.com,dustin-lynch-seein-red.txt
+Bebe Rexha,I Got You,56,53,songlyrics.com,bebe-rexha-i-got-you.txt
+Noah Cyrus Featuring Labrinth,Make Me (Cry),57,62,songlyrics.com,noah-cyrus-featuring-labrinth-make-me-cry.txt
+Post Malone Featuring Quavo,Congratulations,58,81,songlyrics.com,post-malone-featuring-quavo-congratulations.txt
+Shakira Featuring Maluma,Chantaje,59,52,songlyrics.com,shakira-featuring-maluma-chantaje.txt
+Train,Play That Song,60,69,songlyrics.com,train-play-that-song.txt
+21 Savage & Metro Boomin,No Heart,61,50,songlyrics.com,21-savage-metro-boomin-no-heart.txt
+Michael Ray,Think A Little Less,62,76,songlyrics.com,michael-ray-think-a-little-less.txt
+Chris Young Featuring Vince Gill,Sober Saturday Night,63,75,songlyrics.com,chris-young-featuring-vince-gill-sober-saturday-night.txt
+Khalid,Location,64,70,songlyrics.com,khalid-location.txt
+Auli'i Cravalho,How Far I'll Go,65,67,songlyrics.com,aulii-cravalho-how-far-ill-go.txt
+Carrie Underwood,Dirty Laundry,66,58,songlyrics.com,carrie-underwood-dirty-laundry.txt
+PnB Rock,Selfish,67,59,songlyrics.com,pnb-rock-selfish.txt
+Alessia Cara,How Far I'll Go,68,56,songlyrics.com,alessia-cara-how-far-ill-go.txt
+Brett Eldredge,Wanna Be That Song,69,64,songlyrics.com,brett-eldredge-wanna-be-that-song.txt
+Andy Grammer,Fresh Eyes,70,68,songlyrics.com,andy-grammer-fresh-eyes.txt
+Eric Church Featuring Rhiannon Giddens,Kill A Word,71,74,songlyrics.com,eric-church-featuring-rhiannon-giddens-kill-a-word.txt
+Big Sean,Moves,72,65,songlyrics.com,big-sean-moves.txt
+DJ Luke Nasty,OTW,73,72,songlyrics.com,dj-luke-nasty-otw.txt
+Brad Paisley,Today,74,92,songlyrics.com,brad-paisley-today.txt
+Rae Sremmurd,Swang,75,61,songlyrics.com,rae-sremmurd-swang.txt
+Childish Gambino,Redbone,76,63,songlyrics.com,childish-gambino-redbone.txt
+Luis Fonsi Featuring Daddy Yankee,Despacito,77,88,songlyrics.com,luis-fonsi-featuring-daddy-yankee-despacito.txt
+Maren Morris,80s Mercedes,78,82,songlyrics.com,maren-morris-80s-mercedes.txt
+Brantley Gilbert,The Weekend,79,89,songlyrics.com,brantley-gilbert-the-weekend.txt
+Granger Smith,If The Boot Fits,80,0,songlyrics.com,granger-smith-if-the-boot-fits.txt
+Luke Bryan,Fast,81,0,songlyrics.com,luke-bryan-fast.txt
+Bruno Mars,That's What I Like,82,0,songlyrics.com,bruno-mars-thats-what-i-like.txt
+PARTYNEXTDOOR,Not Nice,83,95,songlyrics.com,partynextdoor-not-nice.txt
+Hey Violet,Guys My Age,84,0,songlyrics.com,hey-violet-guys-my-age.txt
+Rihanna,Sex With Me,85,87,songlyrics.com,rihanna-sex-with-me.txt
+Lauren Alaina,Road Less Traveled,86,0,songlyrics.com,lauren-alaina-road-less-traveled.txt
+Julia Michaels,Issues,87,0,songlyrics.com,julia-michaels-issues.txt
+Starley,Call On Me,88,79,songlyrics.com,starley-call-on-me.txt
+Marshmello,Alone,89,60,songlyrics.com,marshmello-alone.txt
+Dierks Bentley,Black,90,98,songlyrics.com,dierks-bentley-black.txt
+John Mayer,Love On The Weekend,91,0,songlyrics.com,john-mayer-love-on-the-weekend.txt
+2 Chainz x Gucci Mane x Quavo,Good Drank,92,0,songlyrics.com,2-chainz-x-gucci-mane-x-quavo-good-drank.txt
+Jason Aldean,Any Ol' Barstool,93,0,songlyrics.com,jason-aldean-any-ol-barstool.txt
+Calum Scott,Dancing On My Own,94,0,songlyrics.com,calum-scott-dancing-on-my-own.txt
+Drake Featuring 21 Savage,Sneakin',95,73,songlyrics.com,drake-featuring-21-savage-sneakin.txt
+Old Dominion,Song For Another Time,96,83,songlyrics.com,old-dominion-song-for-another-time.txt
+Lady Gaga,Million Reasons,97,0,songlyrics.com,lady-gaga-million-reasons.txt
+Flume Featuring Tove Lo,Say It,98,94,songlyrics.com,flume-featuring-tove-lo-say-it.txt
+Ugly God,Water,99,80,songlyrics.com,ugly-god-water.txt
+Wale Featuring Lil Wayne,Running Back,100,0,songlyrics.com,wale-featuring-lil-wayne-running-back.txt
