@@ -80,9 +80,41 @@ def save_hot_100_and_lyrics():
         
     hot_100_csv.close()
 
+
+def save_swear_words():
+    """
+    Saves the swear words from noswearing.com to a text file in processed.
+    """
+    processed_data_dir = os.path.join(project_dir, 'data', 'processed')
+    words = ['niggas']
+    save_file = os.path.join(processed_data_dir, 'swear-words.txt')
     
+    base_url = 'http://www.noswearing.com/dictionary/'
+    letters = '1' + string.ascii_lowercase
+    
+    for letter in letters:
+        full_url = base_url + letter
+        result = requests_get(full_url)
+        tree = html.fromstring(result.text)
+        search = tree.xpath("//td[@valign='top']/a[@name and string-length(@name) != 0]")
+        
+        if search is None:
+            continue
+        
+        for result in search:
+            words.append(result.get('name').lower())
+            
+    with open(save_file, 'wt') as f:
+        for word in words:
+            f.write(word)
+            f.write('\n')
+    
+    return words
+
+
 def main():
     save_hot_100_and_lyrics()
+    save_swear_words()
     
     
 if __name__ == '__main__':
