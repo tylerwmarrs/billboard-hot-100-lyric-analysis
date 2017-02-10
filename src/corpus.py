@@ -65,6 +65,20 @@ def swear_words():
     return words
 
 
+def stop_words():
+    """Helper to load custom list of stop words.
+    
+    Returns list of words.
+    """
+    fp = os.path.join(processed_data_dir(), 'stopwords.txt')
+    words = []
+    with open(fp, 'rt') as f:
+        for line in f:
+            words.append(line.strip())
+            
+    return words
+
+
 def load_songs(dir_path):
     """Loads a list of songs and their lyrics from text files into a dictionary given folder path.
     
